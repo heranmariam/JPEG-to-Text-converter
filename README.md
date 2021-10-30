@@ -1,1 +1,1 @@
-# JPEG-to-Text-converter
+# JPEG-to-automatic-Text-converter
