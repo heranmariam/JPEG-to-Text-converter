@@ -4,7 +4,7 @@ import random
 from PIL import Image
 import pytesseract
 
-# creates a pytesseract object
+# creates a pytesseract objects
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
 # file path
